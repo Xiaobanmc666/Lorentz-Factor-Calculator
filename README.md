@@ -2,7 +2,7 @@
 洛伦兹因子高精度计算器
 
 [![Release](https://img.shields.io/github/v/release/xiaobanmc666/Lorentz-Factor-Calculator)](https://github.com/xiaobanmc666/Lorentz-Factor-Calculator/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC0_1.0-green.svg)](LICENSE)
 
 
 ## 📖 Introduction | 项目介绍
